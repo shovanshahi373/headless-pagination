@@ -1,0 +1,19 @@
+{
+  "name": "@awakening_bro/paginationhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "loose-envify": "^1.4.0",
+    "js-tokens": "^4.0.0",
+    "react-dom": "^18.2.0",
+    "scheduler": "^0.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shovan shahi",
+  "license": "ISC"
+}
